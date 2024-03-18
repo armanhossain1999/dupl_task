@@ -1,0 +1,723 @@
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll.config
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.pdb
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe.config
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.rsp
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe.config
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.rsp
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Buffers.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Collections.Immutable.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Memory.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Numerics.Vectors.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Reflection.Metadata.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe.config
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.rsp
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe.config
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Web.Infrastructure.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\WebGrease.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.pdb
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.AssemblyReference.cache
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CoreCompileInputs.cache
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CopyComplete
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.pdb
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll.config
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.pdb
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe.config
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.rsp
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe.config
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.rsp
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.targets
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Buffers.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Collections.Immutable.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Memory.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Numerics.Vectors.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Reflection.Metadata.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe.config
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.rsp
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe.config
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Web.Infrastructure.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\WebGrease.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.xml
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.pdb
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.AssemblyReference.cache
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CoreCompileInputs.cache
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CopyComplete
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.pdb
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportSource.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.Shared.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R54\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\stdole.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll.config
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.pdb
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe.config
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.rsp
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe.config
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.rsp
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Buffers.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Collections.Immutable.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Memory.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Numerics.Vectors.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Reflection.Metadata.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe.config
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.rsp
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe.config
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Web.Infrastructure.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\WebGrease.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.pdb
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.AssemblyReference.cache
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CoreCompileInputs.cache
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CopyComplete
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.pdb
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.Mvc.dll
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.xml
+D:\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.Mvc.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll.config
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.pdb
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe.config
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.rsp
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe.config
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.rsp
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.targets
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Buffers.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Collections.Immutable.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Memory.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Numerics.Vectors.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Reflection.Metadata.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe.config
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.rsp
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe.config
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportSource.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.Shared.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Web.Infrastructure.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.Mvc.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\WebGrease.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\stdole.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.Mvc.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.pdb
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.AssemblyReference.cache
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CoreCompileInputs.cache
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CopyComplete
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.pdb
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\JetBrains.Annotations.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyModel.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.ObjectPool.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Options.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Primitives.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.WebEncoders.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Net.Http.Headers.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Win32.Registry.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.Bson.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Buffers.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.ComponentModel.Annotations.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Diagnostics.DiagnosticSource.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Memory.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Numerics.Vectors.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.AccessControl.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Cryptography.Xml.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Permissions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Principal.Windows.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Text.Encodings.Web.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Threading.Tasks.Extensions.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\X.PagedList.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\X.PagedList.Web.Common.dll
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\JetBrains.Annotations.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.ObjectPool.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Options.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Primitives.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.WebEncoders.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Net.Http.Headers.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.Bson.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Buffers.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Diagnostics.DiagnosticSource.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Memory.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Numerics.Vectors.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Text.Encodings.Web.xml
+D:\R54\Arman-2\Arman\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Threading.Tasks.Extensions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll.config
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\DUPL_Practical_Exam.pdb
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.exe.config
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csc.rsp
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.exe.config
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\csi.rsp
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.Managed.Core.targets
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Buffers.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Collections.Immutable.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Memory.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Numerics.Vectors.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Reflection.Metadata.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.exe.config
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\vbc.rsp
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\roslyn\VBCSCompiler.exe.config
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportSource.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.Shared.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\JetBrains.Annotations.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyModel.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.ObjectPool.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Options.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Primitives.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.WebEncoders.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Net.Http.Headers.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Web.Infrastructure.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Win32.Registry.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.Bson.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.Mvc.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Buffers.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.ComponentModel.Annotations.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Diagnostics.DiagnosticSource.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Memory.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Numerics.Vectors.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.AccessControl.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Cryptography.Xml.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Permissions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Principal.Windows.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Text.Encodings.Web.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Threading.Tasks.Extensions.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\WebGrease.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\X.PagedList.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\X.PagedList.Web.Common.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\stdole.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\EntityFramework.SqlServer.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\JetBrains.Annotations.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.ObjectPool.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Options.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Primitives.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.WebEncoders.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Net.Http.Headers.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.Bson.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.Mvc.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Buffers.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Diagnostics.DiagnosticSource.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Memory.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Numerics.Vectors.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Text.Encodings.Web.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Threading.Tasks.Extensions.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Helpers.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Mvc.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Razor.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Deployment.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.WebPages.Razor.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Web.Optimization.xml
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Antlr3.Runtime.pdb
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.AssemblyReference.cache
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CoreCompileInputs.cache
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.csproj.CopyComplete
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.dll
+D:\R54\DUPL Work\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\obj\Debug\DUPL_Practical_Exam.pdb
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportSource.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.Shared.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\JetBrains.Annotations.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyModel.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.ObjectPool.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Options.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Primitives.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.WebEncoders.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Net.Http.Headers.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Win32.Registry.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.Bson.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.Mvc.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Buffers.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.ComponentModel.Annotations.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Diagnostics.DiagnosticSource.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Memory.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Numerics.Vectors.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.AccessControl.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Cryptography.Xml.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Permissions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Security.Principal.Windows.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Text.Encodings.Web.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Threading.Tasks.Extensions.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\X.PagedList.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\X.PagedList.Web.Common.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\stdole.dll
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\JetBrains.Annotations.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.ObjectPool.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Options.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.Primitives.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Extensions.WebEncoders.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Microsoft.Net.Http.Headers.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\Newtonsoft.Json.Bson.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\PagedList.Mvc.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Buffers.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Diagnostics.DiagnosticSource.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Memory.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Numerics.Vectors.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Text.Encodings.Web.xml
+D:\DUPL\DUPL_Practical_Exams\DUPL_Practical_Exam\bin\System.Threading.Tasks.Extensions.xml
